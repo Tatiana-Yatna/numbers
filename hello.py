@@ -13,5 +13,3 @@ if x == 5:
     if y == 7:
         print("X = 5 и Y = 7!!")
     print("Hello, Setti")
-
-
